@@ -1,1 +1,16 @@
-{"username":"daroxs95","id":"50915667","name":"Darián López","company":"@PotatoBite","web":"https://daroxs95.github.io","location":"","email":"","hireable":true,"bio":"","twitter_username":"LopezUtra","headline":"","linkedin_username":"","telegram_username":"","categories":[]}
+{
+  "username": "daroxs95",
+  "id": "50915667",
+  "name": "Darián López",
+  "company": "@PotatoBite",
+  "web": "https://daroxs95.github.io",
+  "location": "",
+  "email": "daroxs95@gmail.com",
+  "hireable": true,
+  "bio": "",
+  "twitter_username": "LopezUtra",
+  "headline": "Software Engineer | Mathematician",
+  "linkedin_username": "darian-lopez-utra",
+  "telegram_username": "",
+  "categories": ["softwareDev", "frontendDev", "technicalLead"]
+}
